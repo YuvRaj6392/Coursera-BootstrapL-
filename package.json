@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/YuvRaj6392/Coursera/issues"
   },
-  "homepage": "https://github.com/YuvRaj6392/Coursera#readme"
+  "homepage": "https://github.com/YuvRaj6392/Coursera#readme",
+  "dependencies": {
+    "bootstrap-social": "^5.1.1"
+  }
 }
